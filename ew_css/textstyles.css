@@ -1,0 +1,50 @@
+.para1{font-size: 0; text-align:center; margin-top:0px; margin-bottom:0px;}
+.Style2{font-family:  'Saira-Regular', 'Saira' ;
+ font-size: 48px; 
+ font-weight:700; 
+ color: #FEFFFF;
+ word-wrap: break-word;}
+.Style3{font-family:  'Saira-SemiBold', 'Saira' ;
+ font-size: 18px; 
+ font-weight:600; 
+ color: #2F41E9;
+ word-wrap: break-word;}
+.Style4{font-family:  'Saira-Medium', 'Saira' ;
+ font-size: 16px; 
+ font-weight:500; 
+ color: #FEFFFF;
+ word-wrap: break-word;}
+.para5{font-size: 0; text-align:left; margin-top:0px; margin-bottom:0px;}
+.Style6{font-family:  'Saira-Medium', 'Saira' ;
+ font-size: 14px; 
+ font-weight:500; 
+ color: #FEFFFF;
+ word-wrap: break-word;}
+.Style7{font-family:  'Saira-SemiBold', 'Saira' ;
+ font-size: 24px; 
+ font-weight:600; 
+ color: #FEFFFF;
+ word-wrap: break-word;}
+.Style8{font-family:  'Saira-Medium', 'Saira' ;
+ font-size: 14px; 
+ font-weight:500; 
+ color: #FEFFFF;
+ opacity: 0.5; 
+ filter:alpha(opacity=50);
+ word-wrap: break-word;}
+.Style9{font-family:  'Saira-SemiBold', 'Saira' ;
+ font-size: 20px; 
+ font-weight:600; 
+ color: #FEFFFF;
+ word-wrap: break-word;}
+.Style10{font-family:  'Saira-Medium', 'Saira' ;
+ font-size: 14px; 
+ font-weight:500; 
+ margin:0;
+ color: #FEFFFF;
+ word-wrap: break-word;}
+.para11{font-size: 0; text-align:left; margin-bottom:0px; margin-top:0px;}
+body{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing: grayscale}
+a.outerlink{text-decoration:none}
+.animhidden{opacity: 0}
+.animvisible{opacity: 1}
